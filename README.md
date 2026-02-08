@@ -1,2 +1,10 @@
-# FPGA-basics
-Basic FPGA projects using VHDL and Verilog
+# FPGA Basics
+
+This repository contains basic FPGA projects developed using VHDL and Verilog.
+
+## Topics
+- Digital design
+- VHDL
+- Verilog
+- Serial communication
+- FPGA basics
